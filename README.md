@@ -25,13 +25,16 @@ Extended the Gold layer into a feature-rich dataset ready for ML:
 
 ---
 
-##  Repo Structure  
-notebooks/ – Databricks notebooks for both labs
-sql/ – SQL scripts for Data Preprocessing in Microsoft
-README.md – this overview
+##  Repo Structure 
+## Repo Structure
+- `notebooks/` – Databricks notebooks for both labs  
+- `sql/` – SQL scripts for Data Preprocessing in Microsoft Fabric 
+- `README.md` – this overview
+
 
 ## Branches
 - `main` – summary and final structure  
 - `data_preprocessing` – Lab 3 (cleaning + curated Gold table)  
 - `feature_engineering` – Lab 4 (text features + embeddings)
+
 
